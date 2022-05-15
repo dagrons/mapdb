@@ -1,0 +1,6 @@
+mongo-data/*
+!mongo-data/.gitkeep
+neo4j-data/*
+!neo4j-data/.gitkeep
+redis-data/*
+!redis-data/.gitkeep
